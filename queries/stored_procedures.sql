@@ -1,0 +1,5 @@
+
+-- Stored Procedure 9
+DELIMITER //
+CREATE PROCEDURE Proc_9() BEGIN SELECT 1; END //
+DELIMITER ;
