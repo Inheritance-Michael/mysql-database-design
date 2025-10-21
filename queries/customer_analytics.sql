@@ -19,3 +19,6 @@ SELECT COUNT(*) AS metric_32 FROM users WHERE id > 32;
 
 -- Analytical Query 37
 SELECT COUNT(*) AS metric_37 FROM users WHERE id > 37;
+
+-- Analytical Query 42
+SELECT COUNT(*) AS metric_42 FROM users WHERE id > 42;
