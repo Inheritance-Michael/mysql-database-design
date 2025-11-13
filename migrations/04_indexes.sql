@@ -24,3 +24,5 @@ CREATE INDEX idx_perf_58 ON products (sku, price);
 CREATE INDEX idx_perf_63 ON products (sku, price);
 
 CREATE INDEX idx_perf_68 ON products (sku, price);
+
+CREATE INDEX idx_perf_73 ON products (sku, price);
