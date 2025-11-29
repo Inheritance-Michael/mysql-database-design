@@ -35,3 +35,5 @@ Production-ready relational schemas in 3NF with foreign keys, indexes, and store
 - Schema version 85: Validated foreign keys and query execution plans.
 
 - Schema version 90: Validated foreign keys and query execution plans.
+
+- Schema version 95: Validated foreign keys and query execution plans.
